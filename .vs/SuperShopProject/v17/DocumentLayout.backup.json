@@ -1,0 +1,697 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\supershopproject\\m_productoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|solutionrelative:supershopproject\\m_productoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|d:\\aiub\\aiub 6th(fall 24-25) semester\\oop-2(c#)\\final code\\supershopproject\\supershopproject\\m_productoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|solutionrelative:supershopproject\\m_productoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\supershopproject\\m_updatepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|solutionrelative:supershopproject\\m_updatepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\supershopproject\\m_managersalesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|solutionrelative:supershopproject\\m_managersalesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\supershopproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|solutionrelative:supershopproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\supershopproject\\m_loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|solutionrelative:supershopproject\\m_loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\supershopproject\\m_loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|solutionrelative:supershopproject\\m_loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\supershopproject\\m_orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|solutionrelative:supershopproject\\m_orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\supershopproject\\m_orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|solutionrelative:supershopproject\\m_orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\supershopproject\\m_orderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|solutionrelative:supershopproject\\m_orderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\supershopproject\\m_inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|solutionrelative:supershopproject\\m_inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\supershopproject\\m_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|solutionrelative:supershopproject\\m_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\supershopproject\\m_orderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|solutionrelative:supershopproject\\m_orderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\supershopproject\\m_updatepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|solutionrelative:supershopproject\\m_updatepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\supershopproject\\m_inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|solutionrelative:supershopproject\\m_inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\supershopproject\\m_salesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|solutionrelative:supershopproject\\m_salesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\supershopproject\\t_adminoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|solutionrelative:supershopproject\\t_adminoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\supershopproject\\m_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|solutionrelative:supershopproject\\m_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\supershopproject\\t_adminoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|solutionrelative:supershopproject\\t_adminoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\supershopproject\\s_orderoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|solutionrelative:supershopproject\\s_orderoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\supershopproject\\m_monthlysalesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|solutionrelative:supershopproject\\m_monthlysalesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\supershopproject\\m_signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|solutionrelative:supershopproject\\m_signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\supershopproject\\m_signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|solutionrelative:supershopproject\\m_signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\supershopproject\\m_monthlysalesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|solutionrelative:supershopproject\\m_monthlysalesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\supershopproject\\m_managersalesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|solutionrelative:supershopproject\\m_managersalesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\supershopproject\\m_salesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|solutionrelative:supershopproject\\m_salesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\supershopproject\\t_categoryoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|solutionrelative:supershopproject\\t_categoryoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\supershopproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|solutionrelative:supershopproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\supershopproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|solutionrelative:supershopproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\supershopproject\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|solutionrelative:supershopproject\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\supershopproject\\m_customerhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|solutionrelative:supershopproject\\m_customerhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\supershopproject\\manager operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|solutionrelative:supershopproject\\manager operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\supershopproject\\t_categoryoperation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|solutionrelative:supershopproject\\t_categoryoperation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\supershopproject\\t_categoryoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|solutionrelative:supershopproject\\t_categoryoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\supershopproject\\t_adminoperation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|solutionrelative:supershopproject\\t_adminoperation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\supershopproject\\manager operation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|solutionrelative:supershopproject\\manager operation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\supershopproject\\manager operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|solutionrelative:supershopproject\\manager operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\supershopproject\\s_orderoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|solutionrelative:supershopproject\\s_orderoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\supershopproject\\s_managerhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|solutionrelative:supershopproject\\s_managerhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\supershopproject\\s_managerhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|solutionrelative:supershopproject\\s_managerhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\supershopproject\\m_customerhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|solutionrelative:supershopproject\\m_customerhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\supershopproject\\m_signupform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3246A59-F4FE-4BBE-B9DD-3E7D18032D50}|SuperShopProject\\SuperShopProject.csproj|solutionrelative:supershopproject\\m_signupform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "M_OrderDetails.cs",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_OrderDetails.cs",
+              "RelativeDocumentMoniker": "SuperShopProject\\M_OrderDetails.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_OrderDetails.cs",
+              "RelativeToolTip": "SuperShopProject\\M_OrderDetails.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA3wEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T06:48:46.559Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "M_OrderHistory.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_OrderHistory.cs",
+              "RelativeDocumentMoniker": "SuperShopProject\\M_OrderHistory.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_OrderHistory.cs [Design]",
+              "RelativeToolTip": "SuperShopProject\\M_OrderHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T06:07:02.43Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "M_OrderDetails.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_OrderDetails.cs",
+              "RelativeDocumentMoniker": "SuperShopProject\\M_OrderDetails.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_OrderDetails.cs [Design]",
+              "RelativeToolTip": "SuperShopProject\\M_OrderDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T06:39:41.447Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "M_OrderHistory.cs",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_OrderHistory.cs",
+              "RelativeDocumentMoniker": "SuperShopProject\\M_OrderHistory.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_OrderHistory.cs",
+              "RelativeToolTip": "SuperShopProject\\M_OrderHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T06:23:59.893Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "M_Customer.cs",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_Customer.cs",
+              "RelativeDocumentMoniker": "SuperShopProject\\M_Customer.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_Customer.cs",
+              "RelativeToolTip": "SuperShopProject\\M_Customer.cs",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAwwBABAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T16:02:51.038Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "M_Customer.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_Customer.cs",
+              "RelativeDocumentMoniker": "SuperShopProject\\M_Customer.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_Customer.cs [Design]",
+              "RelativeToolTip": "SuperShopProject\\M_Customer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T15:40:10.424Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\Program.cs",
+              "RelativeDocumentMoniker": "SuperShopProject\\Program.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\Program.cs",
+              "RelativeToolTip": "SuperShopProject\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T17:33:25.533Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "M_SalesReport.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_SalesReport.cs",
+              "RelativeDocumentMoniker": "SuperShopProject\\M_SalesReport.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_SalesReport.cs [Design]",
+              "RelativeToolTip": "SuperShopProject\\M_SalesReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T09:37:56.9Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "M_UpdatePassWord.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_UpdatePassWord.cs",
+              "RelativeDocumentMoniker": "SuperShopProject\\M_UpdatePassWord.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_UpdatePassWord.cs [Design]",
+              "RelativeToolTip": "SuperShopProject\\M_UpdatePassWord.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:04:30.827Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "M_ManagerSalesReport.cs",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_ManagerSalesReport.cs",
+              "RelativeDocumentMoniker": "SuperShopProject\\M_ManagerSalesReport.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_ManagerSalesReport.cs",
+              "RelativeToolTip": "SuperShopProject\\M_ManagerSalesReport.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCkAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T17:57:12.028Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "M_ProductOperation.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_ProductOperation.cs",
+              "RelativeDocumentMoniker": "SuperShopProject\\M_ProductOperation.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_ProductOperation.cs [Design]*",
+              "RelativeToolTip": "SuperShopProject\\M_ProductOperation.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T04:51:16.942Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "M_ProductOperation.cs",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_ProductOperation.cs",
+              "RelativeDocumentMoniker": "SuperShopProject\\M_ProductOperation.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_ProductOperation.cs*",
+              "RelativeToolTip": "SuperShopProject\\M_ProductOperation.cs*",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAYwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T05:07:56.765Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "M_InventoryManager.cs",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_InventoryManager.cs",
+              "RelativeDocumentMoniker": "SuperShopProject\\M_InventoryManager.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_InventoryManager.cs",
+              "RelativeToolTip": "SuperShopProject\\M_InventoryManager.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T05:56:20.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "M_LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_LoginForm.cs",
+              "RelativeDocumentMoniker": "SuperShopProject\\M_LoginForm.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_LoginForm.cs [Design]",
+              "RelativeToolTip": "SuperShopProject\\M_LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:01:32.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "M_LoginForm.cs",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_LoginForm.cs",
+              "RelativeDocumentMoniker": "SuperShopProject\\M_LoginForm.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_LoginForm.cs",
+              "RelativeToolTip": "SuperShopProject\\M_LoginForm.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T05:45:07.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "M_InventoryManager.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_InventoryManager.cs",
+              "RelativeDocumentMoniker": "SuperShopProject\\M_InventoryManager.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_InventoryManager.cs [Design]",
+              "RelativeToolTip": "SuperShopProject\\M_InventoryManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T04:39:03.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "M_UpdatePassWord.cs",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_UpdatePassWord.cs",
+              "RelativeDocumentMoniker": "SuperShopProject\\M_UpdatePassWord.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_UpdatePassWord.cs",
+              "RelativeToolTip": "SuperShopProject\\M_UpdatePassWord.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAowFgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:06:01.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "M_MonthlySalesReport.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_MonthlySalesReport.cs",
+              "RelativeDocumentMoniker": "SuperShopProject\\M_MonthlySalesReport.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_MonthlySalesReport.cs [Design]",
+              "RelativeToolTip": "SuperShopProject\\M_MonthlySalesReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:19:58.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "T_AdminOperation.cs",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\T_AdminOperation.cs",
+              "RelativeDocumentMoniker": "SuperShopProject\\T_AdminOperation.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\T_AdminOperation.cs",
+              "RelativeToolTip": "SuperShopProject\\T_AdminOperation.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T10:02:35.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "T_AdminOperation.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\T_AdminOperation.cs",
+              "RelativeDocumentMoniker": "SuperShopProject\\T_AdminOperation.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\T_AdminOperation.cs [Design]",
+              "RelativeToolTip": "SuperShopProject\\T_AdminOperation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T06:29:58.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "M_SignUpForm.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_SignUpForm.cs",
+              "RelativeDocumentMoniker": "SuperShopProject\\M_SignUpForm.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_SignUpForm.cs [Design]",
+              "RelativeToolTip": "SuperShopProject\\M_SignUpForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:17:54.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "S_OrderOperation.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\S_OrderOperation.cs",
+              "RelativeDocumentMoniker": "SuperShopProject\\S_OrderOperation.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\S_OrderOperation.cs [Design]",
+              "RelativeToolTip": "SuperShopProject\\S_OrderOperation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T14:03:27.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "M_ManagerSalesReport.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_ManagerSalesReport.cs",
+              "RelativeDocumentMoniker": "SuperShopProject\\M_ManagerSalesReport.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_ManagerSalesReport.cs [Design]",
+              "RelativeToolTip": "SuperShopProject\\M_ManagerSalesReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T17:54:18.124Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\Form1.cs",
+              "RelativeDocumentMoniker": "SuperShopProject\\Form1.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\Form1.cs",
+              "RelativeToolTip": "SuperShopProject\\Form1.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAWwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T06:47:45.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\Form1.cs",
+              "RelativeDocumentMoniker": "SuperShopProject\\Form1.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\Form1.cs [Design]",
+              "RelativeToolTip": "SuperShopProject\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T09:56:06.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "T_CategoryOperation.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\T_CategoryOperation.cs",
+              "RelativeDocumentMoniker": "SuperShopProject\\T_CategoryOperation.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\T_CategoryOperation.cs [Design]",
+              "RelativeToolTip": "SuperShopProject\\T_CategoryOperation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T10:24:21.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "M_SignUpForm.cs",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_SignUpForm.cs",
+              "RelativeDocumentMoniker": "SuperShopProject\\M_SignUpForm.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_SignUpForm.cs",
+              "RelativeToolTip": "SuperShopProject\\M_SignUpForm.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowF8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:20:09.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "M_SalesReport.cs",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_SalesReport.cs",
+              "RelativeDocumentMoniker": "SuperShopProject\\M_SalesReport.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_SalesReport.cs",
+              "RelativeToolTip": "SuperShopProject\\M_SalesReport.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAvwDMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T09:12:05.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "M_MonthlySalesReport.cs",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_MonthlySalesReport.cs",
+              "RelativeDocumentMoniker": "SuperShopProject\\M_MonthlySalesReport.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_MonthlySalesReport.cs",
+              "RelativeToolTip": "SuperShopProject\\M_MonthlySalesReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T09:35:33.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "SuperShopProject\\Form1.Designer.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\Form1.Designer.cs",
+              "RelativeToolTip": "SuperShopProject\\Form1.Designer.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAvwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T08:12:24.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "M_CustomerHomePage.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_CustomerHomePage.cs",
+              "RelativeDocumentMoniker": "SuperShopProject\\M_CustomerHomePage.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_CustomerHomePage.cs [Design]",
+              "RelativeToolTip": "SuperShopProject\\M_CustomerHomePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T18:40:33.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Manager Operation.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\Manager Operation.cs",
+              "RelativeDocumentMoniker": "SuperShopProject\\Manager Operation.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\Manager Operation.cs [Design]",
+              "RelativeToolTip": "SuperShopProject\\Manager Operation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T06:40:49.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "T_CategoryOperation.Designer.cs",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\T_CategoryOperation.Designer.cs",
+              "RelativeDocumentMoniker": "SuperShopProject\\T_CategoryOperation.Designer.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\T_CategoryOperation.Designer.cs",
+              "RelativeToolTip": "SuperShopProject\\T_CategoryOperation.Designer.cs",
+              "ViewState": "AgIAAAMBAAAAAAAAAAAEwBMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T07:06:40.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "T_CategoryOperation.cs",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\T_CategoryOperation.cs",
+              "RelativeDocumentMoniker": "SuperShopProject\\T_CategoryOperation.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\T_CategoryOperation.cs",
+              "RelativeToolTip": "SuperShopProject\\T_CategoryOperation.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAIA8wEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T10:02:52.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Manager Operation.cs",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\Manager Operation.cs",
+              "RelativeDocumentMoniker": "SuperShopProject\\Manager Operation.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\Manager Operation.cs",
+              "RelativeToolTip": "SuperShopProject\\Manager Operation.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAUwL0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T09:55:44.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Manager Operation.Designer.cs",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\Manager Operation.Designer.cs",
+              "RelativeDocumentMoniker": "SuperShopProject\\Manager Operation.Designer.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\Manager Operation.Designer.cs",
+              "RelativeToolTip": "SuperShopProject\\Manager Operation.Designer.cs",
+              "ViewState": "AgIAAE0BAAAAAAAAAAAtwFoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T06:49:28.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "T_AdminOperation.Designer.cs",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\T_AdminOperation.Designer.cs",
+              "RelativeDocumentMoniker": "SuperShopProject\\T_AdminOperation.Designer.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\T_AdminOperation.Designer.cs",
+              "RelativeToolTip": "SuperShopProject\\T_AdminOperation.Designer.cs",
+              "ViewState": "AgIAAPUAAAAAAAAAAAAtwBEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T06:54:03.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "S_OrderOperation.cs",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\S_OrderOperation.cs",
+              "RelativeDocumentMoniker": "SuperShopProject\\S_OrderOperation.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\S_OrderOperation.cs",
+              "RelativeToolTip": "SuperShopProject\\S_OrderOperation.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAcwHcAAAAhAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T13:58:40.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "S_ManagerHomePage.cs",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\S_ManagerHomePage.cs",
+              "RelativeDocumentMoniker": "SuperShopProject\\S_ManagerHomePage.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\S_ManagerHomePage.cs",
+              "RelativeToolTip": "SuperShopProject\\S_ManagerHomePage.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T13:55:33.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "S_ManagerHomePage.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\S_ManagerHomePage.cs",
+              "RelativeDocumentMoniker": "SuperShopProject\\S_ManagerHomePage.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\S_ManagerHomePage.cs [Design]",
+              "RelativeToolTip": "SuperShopProject\\S_ManagerHomePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T13:55:31.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "M_CustomerHomePage.cs",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_CustomerHomePage.cs",
+              "RelativeDocumentMoniker": "SuperShopProject\\M_CustomerHomePage.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_CustomerHomePage.cs",
+              "RelativeToolTip": "SuperShopProject\\M_CustomerHomePage.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAtwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T18:41:54.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "M_SignUpForm.Designer.cs",
+              "DocumentMoniker": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_SignUpForm.Designer.cs",
+              "RelativeDocumentMoniker": "SuperShopProject\\M_SignUpForm.Designer.cs",
+              "ToolTip": "D:\\AIUB\\AIUB 6th(Fall 24-25) Semester\\OOP-2(C#)\\Final Code\\SuperShopProject\\SuperShopProject\\M_SignUpForm.Designer.cs",
+              "RelativeToolTip": "SuperShopProject\\M_SignUpForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:17:45.028Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
